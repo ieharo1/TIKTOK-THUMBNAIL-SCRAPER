@@ -1,22 +1,31 @@
-# tiktok-thumbnail-scraper
+# 🎬 Tiktok Thumbnail Scraper
 
-Script en Python para **extraer y descargar thumbnails (portadas)** de videos de cuentas públicas de TikTok utilizando el `secUid` del perfil y el endpoint JSON oficial de TikTok.
-
-Útil para análisis de contenido, recopilación visual, monitoreo de cuentas o datasets de imágenes.
+Script en Python para extraer y descargar thumbnails de videos de TikTok desarrollado por **Isaac Esteban Haro Torres**.
 
 ---
 
-## 🚀 Características
+## 📝 Descripción
 
-- Obtiene automáticamente el `secUid` del perfil
-- Consulta el endpoint JSON oficial de TikTok
-- Extrae metadatos de los videos publicados
-- Descarga las **thumbnails originales** de cada video
-- Barra de progreso con `tqdm`
-- Organiza las imágenes en carpetas por usuario
-- Manejo básico de errores por video
+Scraper para descargar thumbnails de videos de TikTok.
 
 ---
 
-## 📁 Estructura generada
+## 🛠️ Stack Tecnológico
 
+- Python
+- BeautifulSoup
+
+---
+
+## 👨‍💻 Desarrollado por Isaac Esteban Haro Torres
+
+**Ingeniero en Sistemas · Full Stack · Automatización · Data**
+
+- 📧 Email: zackharo1@gmail.com
+- 📱 WhatsApp: 098805517
+- 💻 GitHub: https://github.com/ieharo1
+- 🌐 Portafolio: https://ieharo1.github.io/portafolio-isaac.haro/
+
+---
+
+© 2026 Isaac Esteban Haro Torres - Todos los derechos reservados.
