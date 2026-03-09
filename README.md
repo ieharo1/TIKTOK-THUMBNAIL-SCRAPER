@@ -232,12 +232,6 @@ for thumbnail in thumbnails:
 | TikTok API | Oficial, estable | Requiere aprobación |
 |第三方库 | Fácil de usar | Puede romperse |
 
----
-
-## 🤝 Contribuciones
-
-¿Agregaste nuevas funcionalidades de análisis?
-¡Abre un Pull Request!
 
 ---
 
